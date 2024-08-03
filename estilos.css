@@ -1,0 +1,27 @@
+.bg-blue {
+    background-color: rgb(60, 62, 62);
+}
+
+.bg-red {
+    background-color: salmon;
+}
+
+.c-marron{
+    color: brown;
+}
+
+.c-dorado{
+    color: gold;
+}
+
+.btn-marron{
+    background-color: brown;
+    border: 2px solid black;
+    color: white;
+}
+
+.btn-marron:hover{
+    background-color: white;
+    color: brown;
+    border: 2px solid black;
+}
